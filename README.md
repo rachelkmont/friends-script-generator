@@ -1,13 +1,3 @@
-# friends-script-generator
-
-Generating the Friends TV scripts using deep learning
-
-In this project, we'll generate our own Simpsons TV scripts using RNNs. we'll be using scripts of the Simpsons found online. The Neural Network we'll build will generate a new TV script for a scene chosen by the user.
-
-Credits for scripts:
-
-Of course, I'd be happy to help you update the README for your Friends script generator project. I'll start by reviewing the main processing file you've shared to understand how your project works, including how it preprocesses data, generates scripts, and handles deliverables. This will allow me to suggest an updated README structure and content that reflects the purpose and functionality of your project accurately.
-
 # Friends Script Generator
 
 ## Project Overview
