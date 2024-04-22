@@ -23,18 +23,17 @@ The Friends Script Generator is a deep learning project that utilizes GPT-2 to g
 Overall, with these consistencies it should be easier for the model to "learn" how the show works, and make it recognizable for the reader.
 
 ## Data Acquisition
-The dataset consists of scripts from the Friends TV show, webscraped from Crazy For Friends, a Friends fansite. 
+Using the [webscrapping notebook](https://github.com/rachelkmont/friends-script-generator/blob/main/web_scraper.ipynb), the dataset consists of scripts from the Friends TV show, webscraped from Crazy For Friends, a Friends fansite. 
 
-## Data Preparation
-### Data Exploration
-First, explore the dataset to understand its structure and the distribution of dialogues and characters.
+## Data Preparation & Exploration
+Using the [eda and preprocessing notebook](https://github.com/rachelkmont/friends-script-generator/blob/main/eda_preprocessing.ipynb), eda and some preprocessing is done. The dataset was explored to understand its structure and the distribution of dialogues and characters. The scripts were split into separate files by scenes,to ensure that the scripts stay understandable, we will break scripts up into their respective scenes to help this (and also hopefully help the model be able to write a short scene.)
+
+
+## Training the Model
+Modeling training is done in the [script generation notebook](https://github.com/rachelkmont/friends-script-generator/blob/main/friends_script_generation.ipynb).
 
 ### Tokenization
 The script data is then tokenized using GPT-2's tokenizer, with texts over the token limit being removed to ensure compatibility with the model's input requirements.
-
-## Training the Model
-### Dataset Setup
-Prepare the dataset for training by splitting it into training and validation sets.
 
 ### DataLoader
 Implement a DataLoader for efficient loading and batching of the data during the training process.
