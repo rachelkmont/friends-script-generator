@@ -42,6 +42,7 @@ With the trained model, you can generate new Friends-style scripts by providing 
 The project outputs generated scripts that mimic the style and humor of Friends. These scripts can be found in the `outputs` directory after running the generation script.
 
 ## Resources
+
 Here are the clickable resource links for a .md readme:
 
 - [Episodes are found on Crazy For Friends, a Friends fansite.](https://www.livesinabox.com/friends/scripts.shtml)
@@ -59,6 +60,8 @@ Professional and Non-Professional Styled Text](https://arxiv.org/pdf/2403.09131.
 - [TV Script Generation using RNNs](https://medium.com/@matthew1992/tv-script-generation-563ba7b6356a)
 - [Friends Wiki](https://friends.fandom.com/wiki/Friends)
 
+
 ## Acknowledgements
-This project is inspired by the original work of the creators of Friends and the open-source community contributing to the development of the GPT-2 model.
+This project is inspired by the original work of the creators of Friends and the open-source community contributing to the development of the GPT-2 model. 
+*Disclaimer for scripts: This project is in no way associated with Friends, Warner Bros, NBC or Bright/Kauffman/Crane Productions. This project is for educational purposes only.*
 
