@@ -41,6 +41,24 @@ With the trained model, you can generate new Friends-style scripts by providing 
 ## Deliverables
 The project outputs generated scripts that mimic the style and humor of Friends. These scripts can be found in the `outputs` directory after running the generation script.
 
+## Resources
+Here are the clickable resource links for a .md readme:
+
+- [Episodes are found on Crazy For Friends, a Friends fansite.](https://www.livesinabox.com/friends/scripts.shtml)
+- [Better Language Models and Their Implications](https://openai.com/research/better-language-models)
+- [Wordcraft: Story Writing With Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3490099.3511105)
+- [Multi-Task Instruction Tuning of LLaMA for Specific Scenarios:
+A Preliminary Study on Writing Assistance](https://arxiv.org/pdf/2305.13225.pdf)
+- [LLMs as Writing Assistants: Exploring Perspectives on Sense of
+Ownership and Reasoning](https://arxiv.org/pdf/2404.00027.pdf)
+- [ProSwitch: Knowledge-Guided Instruction Tuning to Generate
+Professional and Non-Professional Styled Text](https://arxiv.org/pdf/2403.09131.pdf)
+- [Fine-Tuning Large Language Models: A Step-by-Step Tutorial](https://www.datacamp.com/tutorial/fine-tuning-large-language-models)
+- [How to generate text: using different decoding methods for language generation with Transformers](https://github.com/huggingface/blog/blob/main/notebooks/02_how_to_generate.ipynb)
+- [Fine-Tuning ChatGPT for Text Generation With W&B](https://wandb.ai/mostafaibrahim17/ml-articles/reports/Fine-Tuning-ChatGPT-for-Text-Generation-With-W-B--Vmlldzo1NDE5MjYw)
+- [TV Script Generation using RNNs](https://medium.com/@matthew1992/tv-script-generation-563ba7b6356a)
+- [Friends Wiki](https://friends.fandom.com/wiki/Friends)
+
 ## Acknowledgements
 This project is inspired by the original work of the creators of Friends and the open-source community contributing to the development of the GPT-2 model.
 
