@@ -48,6 +48,7 @@ The project outputs generated scripts that mimic the style and humor of Friends.
 - Creative writing generation is an incredibly difficult task for large language models (and people!) and while our model does give us fun "creative" things, they don't always make a ton of sense
 
 ## Model Card
+[Friends Script Generator](https://github.com/rachelkmont/friends-script-generator/blob/main/model_card.md)
 
 ## Resources
 
