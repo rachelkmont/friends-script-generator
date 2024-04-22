@@ -79,5 +79,6 @@ Professional and Non-Professional Styled Text](https://arxiv.org/pdf/2403.09131.
 
 ## Acknowledgements
 This project is inspired by the original work of the creators of Friends and the open-source community contributing to the development of the GPT-2 model. 
+
 *Disclaimer for scripts: This project is in no way associated with Friends, Warner Bros, NBC or Bright/Kauffman/Crane Productions. This project is for educational purposes only.*
 
