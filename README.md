@@ -41,6 +41,14 @@ With the trained model, you can generate new Friends-style scripts by providing 
 ## Deliverables
 The project outputs generated scripts that mimic the style and humor of Friends. These scripts can be found in the `outputs` directory after running the generation script.
 
+## Resources
+
+Matthew, J. (2023, December 6). TV script generation. Medium. https://medium.com/@matthew1992/tv-script-generation-563ba7b6356a 
+
+Raschka, S., Liu, Y., &amp; Mirjalili, V. (2022). Generative Adversarial Networks for Synthesizing New Data. In Machine learning with pytorch and Scikit-Learn: Develop machine learning and deep learning models with python. essay, Packt Publishing. 
+
+
 ## Acknowledgements
-This project is inspired by the original work of the creators of Friends and the open-source community contributing to the development of the GPT-2 model.
+This project is inspired by the original work of the creators of Friends and the open-source community contributing to the development of the GPT-2 model. 
+*Disclaimer for scripts: This project is in no way associated with Friends, Warner Bros, NBC or Bright/Kauffman/Crane Productions. This project is for educational purposes only.*
 
