@@ -45,7 +45,7 @@ The project outputs generated scripts that mimic the style and humor of Friends.
 
 Here are the clickable resource links for a .md readme:
 
-- [Episodes are found on Crazy For Friends, a Friends fansite.](https://www.livesinabox.com/friends/scripts.shtml)
+- Episodes are found on [Crazy For Friends, a Friends fansite.](https://www.livesinabox.com/friends/scripts.shtml)
 - [Better Language Models and Their Implications](https://openai.com/research/better-language-models)
 - [Wordcraft: Story Writing With Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3490099.3511105)
 - [Multi-Task Instruction Tuning of LLaMA for Specific Scenarios:
