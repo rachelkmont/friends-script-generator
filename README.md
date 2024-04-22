@@ -3,20 +3,27 @@
 # Overview
 The Friends Script Generator is a deep learning project that utilizes GPT-2 to generate scripts in the style of the popular TV show Friends. This project aims to showcase the capabilities of generative text models in creating humorous and contextually relevant dialogues resembling the iconic sitcom.
 
-## Environment Setup
-To run this project, you will need Python 3.8+ and the following libraries:
-- torch
-- transformers
-- pandas
-- numpy
+## Why Friends?
+*In general, Friends is a good choice of a show to use for this project:*
 
-Installation command:
-```bash
-pip install torch transformers pandas numpy
-```
+*   Limited settings
+    * Monica's apartment
+    * Chandler and Joey's apartment
+    * Central Perk
+    * Ross's apartment
+*   Limited characters for an ensemble cast show (6 main characters with distinct personalities and humors)
+*   All scripts from all seasons are avaiable
+*   Consistent title naming ("The One With ... ")
+*   Notable vernacular/ slang
+    * Joey's catchphrase, "How you doin'?"
+    * The characters use the emphasized word "so" to modify adjectives more often than any other intensifier
+    * Chandler's habit of ending a sentence unfinished for sarcasm
+* Friends has also been credited in helping non-English speaking students to learn the language, so it should be a good choice for large language model
+
+Overall, with these consistencies it should be easier for the model to "learn" how the show works, and make it recognizable for the reader.
 
 ## Data Acquisition
-The dataset consists of scripts from the Friends TV show. While the dataset is not included in this repository due to copyright concerns, it can be acquired from publicly available sources or through personal collection of episodes' subtitles.
+The dataset consists of scripts from the Friends TV show, webscraped from Crazy For Friends, a Friends fansite. 
 
 ## Data Preparation
 ### Data Exploration
