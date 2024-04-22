@@ -1,6 +1,6 @@
 # Friends Script Generator
 
-## Project Overview
+# Overview
 The Friends Script Generator is a deep learning project that utilizes GPT-2 to generate scripts in the style of the popular TV show Friends. This project aims to showcase the capabilities of generative text models in creating humorous and contextually relevant dialogues resembling the iconic sitcom.
 
 ## Environment Setup
@@ -40,6 +40,14 @@ With the trained model, you can generate new Friends-style scripts by providing 
 
 ## Deliverables
 The project outputs generated scripts that mimic the style and humor of Friends. These scripts can be found in the `outputs` directory after running the generation script.
+
+## Critical Analysis
+- GPT-2 was not a great model to fine-tune for this
+	- We tried to use Llama-2 but kept running into overhead issues
+- Friends is a physical comedy, and gibberish scripts do fit for a lot of the way Friends episodes work, but a lot of the comedy is not found on the page so is very hard to imitate
+- Creative writing generation is an incredibly difficult task for large language models (and people!) and while our model does give us fun "creative" things, they don't always make a ton of sense
+
+## Model Card
 
 ## Resources
 
