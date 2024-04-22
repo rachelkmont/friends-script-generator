@@ -45,8 +45,8 @@ Train the model using the prepared dataset, monitoring for loss and adjusting pa
 ## Generating Scripts
 With the trained model, you can generate new Friends-style scripts by providing seed text or letting the model generate content freely. The generation process is customizable, allowing for adjustments in creativity and coherence.
 
-## Deliverables
-The project outputs generated scripts that mimic the style and humor of Friends. These scripts can be found in the `outputs` directory after running the generation script.
+## Streamlit Demo
+A demonstration of how the script generator works, please see app.py
 
 ## Critical Analysis
 - GPT-2 was not a great model to fine-tune for this
